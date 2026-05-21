@@ -1,0 +1,6 @@
+{
+  "name": "番茄钟与白噪音",
+  "description": "极简治愈风的番茄工作法与白噪音应用，支持倒计时、本地专注历史记录与多套治愈系主题切换。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
